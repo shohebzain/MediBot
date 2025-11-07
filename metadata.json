@@ -1,0 +1,8 @@
+{
+  "name": "MediBot - AI Hospital Assistant",
+  "description": "An intelligent hospital chatbot powered by Gemini. Schedule appointments, check treatment plans, and get patient history insights through a conversational interface.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
