@@ -1,4 +1,4 @@
-import React, { useState, useEffect, useRef, useCallback } from 'react';
+import React, { useState, useEffect, useRef, useCallback } from 'react'; 
 import type { Chat } from '@google/genai';
 import { initializeChat, sendMessageToGemini, startChatWithHistory } from './services/geminiService';
 import { getCurrentUser, logoutUser } from './services/authService';
