@@ -9,7 +9,7 @@
 ![License](https://img.shields.io/badge/License-MIT-green)
 
 </p>
-
+ 
 **MediBot** is an AI-powered healthcare assistant that helps users access basic medical guidance, check symptoms, schedule appointments, manage medication reminders, and receive intelligent healthcare support through a conversational AI interface.
 
 Built with **React**, **Tailwind CSS**, **Google Gemini AI**, and **Vite**, MediBot provides a modern, responsive, and intuitive healthcare experience.
