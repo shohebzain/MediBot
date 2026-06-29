@@ -12,7 +12,7 @@ export const FUNCTION_NAMES = {
   ANALYZE_PATIENT_HISTORY: 'analyzePatientHistory',
   ANALYZE_PATIENT_HISTORY_TRENDS: 'analyzePatientHistoryTrends',
   FIND_DOCTOR: 'findDoctor',
-  GET_HOSPITAL_INFO: 'getHospitalInfo',
+  GET_HOSPITAL_INFO: 'getHospitalInfo', 
   GET_HOSPITALS: 'getHospitals',
   MAKE_PAYMENT: 'makePayment',
   GET_PAYMENT_HISTORY: 'getPaymentHistory',
